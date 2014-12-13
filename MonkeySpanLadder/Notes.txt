@@ -1,0 +1,11 @@
+﻿Box Size:
+75 x 65 
+
+Grid Notes:
+11 columns
+8 rows
+
+Panel GUI:
+200 width
+
+825 Window Width without GUI
